@@ -20,5 +20,6 @@
     </head>
     <body>
         @livewireScripts
+        <livewire:counter/>
     </body>
 </html>
